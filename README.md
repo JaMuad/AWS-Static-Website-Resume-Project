@@ -83,4 +83,5 @@ https://medium.com/@christemenike/aws-s3-static-website-with-cloudfront-b891c86c
 ## Live Website
 https://myi-95-resume.s3.amazonaws.com/resume.html
 
-personal Domain Link: resume.muadmaalim.buzz
+personal Domain Link: 
+www.resume.muadmaalim.buzz
