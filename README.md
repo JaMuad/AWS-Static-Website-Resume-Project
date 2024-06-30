@@ -23,7 +23,7 @@ https://myi-95-resume.s3.amazonaws.com/resume.html
 Coming Soon...
 
 ### 6. Set Up Custom Domain with Route 53
-Coming Soon...
+personal Domain Link: resume.muadmaalim.buzz
 
 ### 7. Document Progress
 Step 1: Set Up Your S3 Bucket for Static Website Hosting
@@ -82,3 +82,4 @@ https://medium.com/@christemenike/aws-s3-static-website-with-cloudfront-b891c86c
 
 ## Live Website
 https://myi-95-resume.s3.amazonaws.com/resume.html
+personal Domain Link: resume.muadmaalim.buzz
